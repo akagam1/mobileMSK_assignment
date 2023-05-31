@@ -1,0 +1,13 @@
+1. Automation Project: Learned about automating excel tasks with python. While I had some prior experiencee, it helped become more confident with some of the basic functions and tasks that can be performed. Overall a decent learning experience.
+
+2. ML Project: I already have prior ML experience having implemented linear and logistic regression from scratch, trained YOLO models, and implemented a siamese network for signature recognition. However I had not learned about decision trees prior to this, and hence was a great learning experience.
+
+3. Django Project:  Had no prior experience with Djjango but had basic web development experience. This was very interesting as I understood the django workflow and feel confident in creating basic websites using this framework. Using the admin panel was a great experience as well and working around with virtual envirnoments was a good learning experience too.
+
+4. Python Course: I already knew python hence just skimmed over the course, it was a great refresher but did not learn anything new.
+
+5. Git/GitHub Course: I have already been using Git and GitHub for several years now and am very comfortable with the workflow. This was another course that I just skimmed through as a refresher.
+
+6. Linux Scripting Course: I have some prior experience of writing bash scripts for running multiple python scripts together and automating the SSH login for an NVIDI Jetson and a raspberryPI. However this was something I learned on a need to know basis and hence going through a formal course helped understand some of the nuances of bash scripting. Furthermore I hadn't used nano in a while as I'm much more of an nvim person so this course was a great nano refresher as well. I mostly learned about decision making and conditionals in bash scripts which is a very useful tool.
+
+7. Purpose of medical records for delivering personalised medicine with AI: Having a history of an individuals medical records helps as it gives you a good idea about the kind of illnesses said person is most likely to have as well as paint a picture of their current health condition. Having a well documented and sorted medical history helps tremendesouly in training unsupervised machine learning models as well. This medical history contains patterns and trends relevant to the person's health such as illnesses, diseases, genetic conditions, allergies, prior prescribed medication etc. It is not only useful for prescribing personalised medication in the future but also to diagnose potential health conditions and medication to combat those conditions. Also with continuous feedback and as the dataset gets larger, the AI will become better as well, helping the patient much more reliably and potentially even help in drug discovery.
